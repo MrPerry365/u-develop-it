@@ -20,5 +20,8 @@
   "homepage": "https://github.com/MrPerry365/u-develop-it#readme",
   "devDependencies": {
     "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
   }
 }
